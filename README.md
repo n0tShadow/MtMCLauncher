@@ -2,13 +2,13 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="/program_info/org.prismlauncher.PrismLauncher.logo-darkmode.svg">
   <source media="(prefers-color-scheme: light)" srcset="/program_info/org.prismlauncher.PrismLauncher.logo.svg">
-  <img alt="Prism Launcher" src="/program_info/org.prismlauncher.PrismLauncher.logo.svg" width="40%">
+  <img alt="MtMC Logo" src="/program_info/org.prismlauncher.PrismLauncher.logo.svg" width="40%">
 </picture>
 </p>
 
 <p align="center">
-  Prism Launcher is a custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once.<br />
-  <br />This is a <b>fork</b> of the MultiMC Launcher and is <b>not</b> endorsed by it.
+  MtMC Launcher - the heart of Minecraft modding.<br />
+  <br />This is a <b>fork</b> of the Prism Launcher and is <b>not</b> endorsed by it. Prism Launcher is a fork of MultiMC Launcher and ALSO NOT ENDORSED by it.
 </p>
 
 ## Installation
@@ -45,19 +45,15 @@ Feel free to create a GitHub issue if you find a bug or want to suggest a new fe
 
 - **Our Discord server:**
 
-[![Prism Launcher Discord server](https://discordapp.com/api/guilds/1031648380885147709/widget.png?style=banner3)](https://prismlauncher.org/discord)
-
-- **Our Matrix space:**
-
-[![Prism Launcher Space](https://img.shields.io/matrix/prismlauncher:matrix.org?style=for-the-badge&label=Matrix%20Space&logo=matrix&color=purple)](https://prismlauncher.org/matrix)
+(![FedotovDev's Discord server](https://discord.com/api/guilds/1324412992808288276/widget.png?style=banner1))
 
 - **Our Subreddit:**
 
-[![r/PrismLauncher](https://img.shields.io/reddit/subreddit-subscribers/prismlauncher?style=for-the-badge&logo=reddit)](https://prismlauncher.org/reddit)
+[![r/FedotovDev](https://img.shields.io/reddit/subreddit-subscribers/fedotovdev?style=for-the-badge&logo=reddit)](https://prismlauncher.org/reddit)
 
 ## Translations
 
-The translation effort for Prism Launcher is hosted on [Weblate](https://hosted.weblate.org/projects/prismlauncher/launcher/) and information about translating Prism Launcher is available at <https://github.com/PrismLauncher/Translations>.
+soon...
 
 ## Building
 
