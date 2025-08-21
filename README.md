@@ -1,33 +1,18 @@
 <p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/program_info/org.prismlauncher.PrismLauncher.logo-darkmode.svg">
-  <source media="(prefers-color-scheme: light)" srcset="/program_info/org.prismlauncher.PrismLauncher.logo.svg">
-  <img alt="MtMC Logo" src="/program_info/org.prismlauncher.PrismLauncher.logo.svg" width="40%">
-</picture>
-</p>
-
-<p align="center">
   MtMC Launcher - the heart of Minecraft modding.<br />
   <br />This is a <b>fork</b> of the Prism Launcher and is <b>not</b> endorsed by it. Prism Launcher is a fork of MultiMC Launcher and ALSO NOT ENDORSED by it.
 </p>
 
 ## Installation
 
-<a href="https://repology.org/project/prismlauncher/versions">
-    <img src="https://repology.org/badge/vertical-allrepos/prismlauncher.svg" alt="Packaging status" align="right">
-</a>
-
 - All downloads and instructions for Prism Launcher can be found on our [Website](https://prismlauncher.org/download).
-- Last build status can be found in the [GitHub Actions](https://github.com/PrismLauncher/PrismLauncher/actions) tab (this also includes the pull requests status).
+- Last build status can be found in the [GitHub Actions](https://github.com/n0tShadow/MtMCLauncher/actions) tab (this also includes the pull requests status).
 
 ### Development Builds
 
 Please understand that these builds are not intended for most users. There may be bugs, and other instabilities. You have been warned.
 
-There are development builds available through:
-
-- [GitHub Actions](https://github.com/PrismLauncher/PrismLauncher/actions) (includes builds from pull requests opened by contribuitors)
-- [nightly.link](https://nightly.link/PrismLauncher/PrismLauncher/workflows/build/develop) (this will always point only to the latest version of develop)
+There are development builds available through
 
 These have debug information in the binaries, so their file sizes are relatively larger.
 
