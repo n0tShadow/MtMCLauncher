@@ -1,3 +1,5 @@
+# Project's frozen for a while. While waiting, try out [HLXLauncher](https://github.com/fedotovdev8801/hlxlauncher)
+
 <p align="center">
   MtMC Launcher - the heart of Minecraft modding.<br />
   <br />This is a <b>fork</b> of the Prism Launcher and is <b>not</b> endorsed by it. Prism Launcher is a fork of MultiMC Launcher and ALSO NOT ENDORSED by it.
